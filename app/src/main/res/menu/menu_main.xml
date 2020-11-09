@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/Mercury"
+        android:title="Mercury"/>
+    <item
+        android:id="@+id/Venus"
+        android:title="Venus"/>
+    <item
+        android:id="@+id/Earth"
+        android:title="Earth"/>
+    <item
+        android:id="@+id/Mars"
+        android:title="Mars"/>
+    <item
+        android:id="@+id/Jupiter"
+        android:title="Jupiter"/>
+    <item
+        android:id="@+id/Saturn"
+        android:title="Saturn"/>
+    <item
+        android:id="@+id/Uranus"
+        android:title="Uranus"/>
+    <item
+        android:id="@+id/Neptune"
+        android:title="Neptune"/>
+
+
+</menu>
